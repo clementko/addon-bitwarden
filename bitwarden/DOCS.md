@@ -121,13 +121,13 @@ The push installation key obtained from official Bitwarden website. Refer to
 [Vaultwarden Wiki](https://github.com/dani-garcia/vaultwarden/wiki/Enabling-Mobile-Client-push-notification)
 for information how to obtain this.
 
-## Option: `push_relay_uri`
+### Option: `push_relay_uri`
 
 The URI to the Bitwarden relay server. Refer to
 [Vaultwarden Wiki](https://github.com/dani-garcia/vaultwarden/wiki/Enabling-Mobile-Client-push-notification)
 for more information.
 
-## Option: `push_identity_uri`
+### Option: `push_identity_uri`
 
 The URI to the Bitwarden identity server. Refer to
 [Vaultwarden Wiki](https://github.com/dani-garcia/vaultwarden/wiki/Enabling-Mobile-Client-push-notification)
